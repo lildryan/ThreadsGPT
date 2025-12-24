@@ -1,0 +1,7 @@
+{
+    "threads_link": "https://www.threads.com/",
+    "llm_link": "https://chatgpt.com/",
+    "prompt": "Твой промпт здесь...",
+    "filter_enabled": true,
+    "filter_text": "ИИ, автоматизация, Threads"
+}
